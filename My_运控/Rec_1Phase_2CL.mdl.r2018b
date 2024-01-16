@@ -6,7 +6,7 @@ Model {
     NumRootInports	    0
     NumRootOutports	    0
     ParameterArgumentNames  ""
-    ComputedModelVersion    "10.15"
+    ComputedModelVersion    "10.17"
     NumModelReferences	    0
     NumTestPointedSignals   0
     NumProvidedFunctions    0
@@ -187,7 +187,7 @@ Model {
 	  LoadSaveID		  "0"
 	  Extents		  [1882.0, 874.0]
 	  ZoomFactor		  [1.0]
-	  Offset		  [-298.69095153567645, -57.111861298291075]
+	  Offset		  [-276.09471680779643, 155.20458603978372]
 	}
 	Object {
 	  $ObjectID		  6
@@ -256,9 +256,9 @@ Model {
   ModifiedByFormat	  "%<Auto>"
   LastModifiedBy	  "Lenovo"
   ModifiedDateFormat	  "%<Auto>"
-  LastModifiedDate	  "Sat Dec 30 17:09:42 2023"
-  RTWModifiedTimeStamp	  625856980
-  ModelVersionFormat	  "10.%<AutoIncrement:15>"
+  LastModifiedDate	  "Sun Dec 31 09:40:01 2023"
+  RTWModifiedTimeStamp	  625916386
+  ModelVersionFormat	  "10.%<AutoIncrement:17>"
   SampleTimeColors	  off
   SampleTimeAnnotations	  off
   LibraryLinkDisplay	  "disabled"
@@ -2254,7 +2254,7 @@ Model {
       LConnTagsString	      "a"
       RConnTagsString	      "__new0"
       BranchType	      "R"
-      Resistance	      "1.22"
+      Resistance	      "1.53"
       Inductance	      "5e-3"
       SetiL0		      off
       InitialCurrent	      "0"
@@ -2771,7 +2771,7 @@ Model {
 	  SourceProductName	  "Simulink"
 	  SourceProductBaseCode	  "SL"
 	  ContentPreviewEnabled	  off
-	  rep_seq_t		  "[0 1 2]./4000"
+	  rep_seq_t		  "[0 1 2]./6000"
 	  rep_seq_y		  "[-1 1 -1]"
 	}
 	Block {
